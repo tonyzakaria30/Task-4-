@@ -1,5 +1,4 @@
 -- Task 4 — SQL Queries
--- Author: Tony Qelada (tony.zakaria30@gmail.com)
 -- Assumed schema:
 -- users(id PK, name, surname, country, email, ...)
 -- users_creds(user_id FK->users.id, email, active boolean, requires_password_reset boolean)
